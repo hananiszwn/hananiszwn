@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hi there! I'm <b>Hanani Sazwani🤗</b></h2>
 
 <p align="center">
-<b>an aspiring Data Engineer from Universiti Teknologi Malaysia 🎓 </b><br>
+<b>An aspiring Data Engineer from Universiti Teknologi Malaysia 🎓 </b><br>
 I'm fascinated by how data can tell stories and drive innovation💡<br>
 Always eager to learn, build and explore new technologies🔋 
 </p>
