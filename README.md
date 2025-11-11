@@ -2,8 +2,8 @@
 
 <p align="center">
 <b>an aspiring Data Engineer from Universiti Teknologi Malaysia 🎓 </b><br>
-I love exploring how data shapes the world in one algorithm at a time 💻✨  
-💡 Passionate about technology, creativity, and continuous learning
+I'm fascinated by how data can tell stories and drive innovation💡<br>
+Always eager to learn, build and explore new technologies🔋 
 </p>
 
 ---
