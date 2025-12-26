@@ -25,6 +25,19 @@ Always eager to learn, build and explore new technologies🔋
 
 ---
 
+### 📚 Education
+- Universiti Teknologi Malaysia (2025-Present)
+Course in Bachelor of Computer Science (Data Engineering) with Honors
+
+- Kolej Matrikulasi Johor (2024-2025)
+CGPA:4.0
+MUET: Band 3.5
+
+- SMK Bandar Tenggara 2 (2019-2024)
+SPM: 5A 4A- 1B
+
+---
+
 ### 🎨 Beyond Code
 I enjoy digital art and visual design, using Canva and Photoshop to transform ideas into visuals that inspire and communicate effectively.  
 
@@ -34,6 +47,7 @@ I enjoy digital art and visual design, using Canva and Photoshop to transform id
 Curious, creative, and motivated to explore how data can be transformed into meaningful insights and impactful designs.  
 
 ---
+### 💻 Courses
 
 📫 Reach me at: [hananisazwani@gmail.com](mailto:hananisazwani@gmail.com)
 
