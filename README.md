@@ -15,16 +15,6 @@ Always eager to learn, build and explore new technologies🔋
 
 ---
 
-### ⚙️ Tools & Technologies  
-<p>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-</p>
-
----
-
 ### 📚 Education
 - Universiti Teknologi Malaysia (2025-Present)
   -  Course in Bachelor of Computer Science (Data Engineering) with Honors
@@ -76,9 +66,38 @@ Always eager to learn, build and explore new technologies🔋
 ---
 ### 💻 Courses
 
-- htt
+- [SECJ1013-Programming Technique I](https://github.com/hananiszwn/Semester-1/tree/main/Programming%20Technique%20I)
+- [SECI1013-Discrete Structure]
+- [SECP1513-Technology & Information System]
+- [SECR1013-Digital Logic]
+- [ULRS1032-Integrity & Anti-Corruption Course]
+- [ULHB1112-English Communication Skills]
 
-📫 Reach me at: [hananisazwani@gmail.com](mailto:hananisazwani@gmail.com)
+---
+  ### ⚙️ Tools & Technologies    
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dev%20C++-1F6FEB?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deeds-555555?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white"/>
+</p>
+
+---
+### Github Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hananiszwn&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff)
+
+---
+### 📫Reach Me At
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hananiszwn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hananiszwn/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hananisazwani@gmail.com)
+
+
 
 ---
 
