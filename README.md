@@ -27,27 +27,56 @@ Always eager to learn, build and explore new technologies🔋
 
 ### 📚 Education
 - Universiti Teknologi Malaysia (2025-Present)
-Course in Bachelor of Computer Science (Data Engineering) with Honors
+  -  Course in Bachelor of Computer Science (Data Engineering) with Honors
 
 - Kolej Matrikulasi Johor (2024-2025)
-CGPA:4.0
-MUET: Band 3.5
+  -  Course: Science Physical
+  -  CGPA: 4.0
+  -  MUET: Band 3.5
 
 - SMK Bandar Tenggara 2 (2019-2024)
-SPM: 5A 4A- 1B
+  -  SPM: 5A 4A- 1B
 
 ---
 
-### 🎨 Beyond Code
-I enjoy digital art and visual design, using Canva and Photoshop to transform ideas into visuals that inspire and communicate effectively.  
-
+### 🎨 Position
+- Universiti Teknologi Malaysia
+  - SUSKOM'25: Volunteer (2025)
+    
+- Kolej Matrikulasi Johor
+  - Peer-Assisted Learning leader (2024-2025)
+    
+- SMK Bandar Tenggara 2
+  - Pengawas Sekolah: Biro Disiplin (2022-2024)
+  - Kadet Remaja Sekolah: Staff Sarjan (2021-2024)
+  - Kelab Badminton: Naib Pengerusi (2023)
+  - English Club: Treasurer (2023)
 ---
 
-### 🌱 About Me  
-Curious, creative, and motivated to explore how data can be transformed into meaningful insights and impactful designs.  
+### 🌱 Participation and Awards
+
+#### Universiti Teknologi Malaysia
+  -
+#### Kolej Matrikulasi Johor
+  -
+#### SMK Bandar Tenggara 2
+  - National Level
+    - Kangaroo Math Competition Malaysia (2022)
+
+ - State Level
+    -
+
+  - District Level
+     - Program iCARE Computer Science (2022)
+
+  - School Level
+     - Pertandingan Maze Run Stem Day (2022)
+
 
 ---
 ### 💻 Courses
+
+- htt
 
 📫 Reach me at: [hananisazwani@gmail.com](mailto:hananisazwani@gmail.com)
 
