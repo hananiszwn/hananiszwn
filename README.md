@@ -93,9 +93,9 @@ Always eager to learn, build and explore new technologies🔋
 ### 💻 Courses
 
 - [SECJ1013-Programming Technique I](https://github.com/hananiszwn/Semester-1/tree/main/Programming%20Technique%20I)
-- [SECI1013-Discrete Structure]
+- [SECI1013-Discrete Structure](https://github.com/hananiszwn/Semester-1/tree/main/Discrete%20Structure)
 - [SECP1513-Technology & Information System](https://github.com/hananiszwn/Semester-1/tree/main/Technology%20%26%20Information%20System)
-- [SECR1013-Digital Logic]
+- [SECR1013-Digital Logic](https://github.com/hananiszwn/Semester-1/tree/main/Digital%20Logic)
 - [ULRS1032-Integrity & Anti-Corruption Course]
 - [ULHB1112-English Communication Skills]
 
