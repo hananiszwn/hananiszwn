@@ -35,10 +35,12 @@ Always eager to learn, build and explore new technologies🔋
     
 - Kolej Matrikulasi Johor
   - Peer-Assisted Learning leader (2024-2025)
+  - Program Bacaan Yassin dan Solat Hajat: AJK Makanan
+  - Sukan Antara Praktikum: AJK Hadiah
     
 - SMK Bandar Tenggara 2
   - Pengawas Sekolah: Biro Disiplin (2022-2024)
-  - Kadet Remaja Sekolah: Staff Sarjan (2021-2024)
+  - Kadet Remaja Sekolah: Staff Sarjan (2022-2024)
   - Kelab Badminton: Naib Pengerusi (2023)
   - English Club: Treasurer (2023)
 ---
@@ -46,15 +48,39 @@ Always eager to learn, build and explore new technologies🔋
 ### 🌱 Participation and Awards
 
 #### Universiti Teknologi Malaysia
-  -
+  - International Level
+    - ASEAN Quantum Summit 2025
+      
+  - University Level
+    -  UTMD InsightX 3 "Information System"
+    -  UTMD InsightX 4 "Digital Infra & Data Engineering"
+    -  UTM Games 2025 for ULTRAS
+    -  UTM Games 2025 for Mobile Legends Bang Bang
+    - 
 #### Kolej Matrikulasi Johor
-  -
+  - National Level
+    - IBM Skillsbuild 
+    - Pertandingan Stem Creator Matrikulasi (Gangsa)
+    - Seminar Kenegaraan Malaysia Madani
+    - MATRIXeXTRA Quiz Challenge
+    - Matechfes Matriculation Tech-Innovation Festival 2025 (e-poster terbaik)
+
+ - State Level
+   - Spark To Reality,EV Car UTM (Perak)
+
+ - College Level
+   - STEM Creator Competition Karnival STEM 2024 (Perak)
+   - Pertandingan Tarik Tali (Perak)
+   - Pertandingan Dodgeball Campuran
+   - Math Olympiad Karnival Stem 2024
+   - Explorace Merdeka
+     
 #### SMK Bandar Tenggara 2
   - National Level
     - Kangaroo Math Competition Malaysia (2022)
 
  - State Level
-    -
+    - Program Kenaikan Pangkat KRS (2022)
 
   - District Level
      - Program iCARE Computer Science (2022)
