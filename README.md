@@ -9,7 +9,7 @@ Always eager to learn, build and explore new technologies🔋
 ---
 
 ### 🚀 Currently Learning
-- Python & C++
+- HTML & C++
 - Data Engineering Fundamentals  
 - Data Visualization and Storytelling  
 
