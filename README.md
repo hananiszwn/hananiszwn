@@ -32,6 +32,7 @@ Always eager to learn, build and explore new technologies🔋
 ### 🎨 Position
 - Universiti Teknologi Malaysia
   - SUSKOM'25: Volunteer (2025)
+  - Air Splash! Pishang Dash!: AJK Masakan
     
 - Kolej Matrikulasi Johor
   - Peer-Assisted Learning leader (2024-2025)
