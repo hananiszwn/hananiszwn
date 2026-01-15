@@ -98,7 +98,6 @@ Always eager to learn, build and explore new technologies🔋
 - [SECP1513-Technology & Information System](https://github.com/hananiszwn/Semester-1/tree/main/Technology%20%26%20Information%20System)
 - [SECR1013-Digital Logic](https://github.com/hananiszwn/Semester-1/tree/main/Digital%20Logic)
 - [ULRS1032-Integrity & Anti-Corruption Course](https://github.com/hananiszwn/Semester-1/tree/9551ef9a17d58a0e92628e8d7fe81d08a3677bcb/Integrity%20%26%20Anti-Corruption)
-- [ULHB1112-English Communication Skills]
 
 ---
   ### ⚙️ Tools & Technologies    
